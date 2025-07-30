@@ -7,3 +7,5 @@ be strictly followed to prevent the spread of infectious diseases.
 
 Here is the working demonstration of our project:
 (https://www.youtube.com/watch?v=IiqnPnmkbIU)
+
+For Arduino bluetooth conectivity code (no docker) view initial commit
